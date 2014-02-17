@@ -17,4 +17,6 @@ Circuit
 -------
 The image of the final circuit has been created using **fritzing**; the software is Open Source, and can be downloaded here: <http://fritzing.org>
 
+![Arduino Color Morse Transmitter Circuit](arduino_color_morse_transmitter.png)
+
 
